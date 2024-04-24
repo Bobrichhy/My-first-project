@@ -1,2 +1,2 @@
-# My-first-project
+# INSURE
 This is my first project on github
